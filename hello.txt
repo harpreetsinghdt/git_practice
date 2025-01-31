@@ -1,3 +1,4 @@
 Hello Git!
 This is a new feature!
 Main branch changes
+now This will no more cause a conflict
